@@ -63,6 +63,7 @@
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
       "shortcutName": "idea"
-    }
+    },
+    "asar": true
   }
 }

@@ -6,7 +6,7 @@ import FromTojson from './components/FromTojson.vue'
     <div>
         <h1>皓际大冒险MOD制作器</h1>
         <h4>版本:2024/1/18</h4>
-        <FromTojson></FromTojson>
+        <FromTojson />
     </div>
 </template>
 
